@@ -87,3 +87,4 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 Pasupathi R,
 B-tech (AI & data science)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasupathi-r-14b7692b9/)
