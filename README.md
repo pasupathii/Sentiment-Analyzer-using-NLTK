@@ -83,6 +83,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 | NLTK Movie Reviews | `nltk.corpus` | ~2K |
 | NLTK Twitter Samples | `nltk.corpus` | ~10K |
 
-## 📝 License
+## Author
+Pasupathi R,
+B-tech (AI & data science)
 
-MIT License
