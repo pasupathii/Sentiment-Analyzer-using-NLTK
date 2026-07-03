@@ -1,8 +1,11 @@
-# 🔮 Sentiment Analyzer Pro
+# Sentiment Analyzer using NLP
+
+## Live Demo
+[Click here to view the hosted project](https://sentiment-analyzer-text-nltk-ai.streamlit.app/)
 
 AI-powered sentiment analysis with explainable predictions. Analyzes customer reviews, tweets, and any text to determine **positive**, **negative**, or **neutral** sentiment with detailed explanations.
 
-## ✨ Features
+## Features
 
 - **Multi-Model Training** — Compares 5 ML models (Naive Bayes, Logistic Regression, SVM, Random Forest, Voting Ensemble) and auto-selects the best
 - **Multi-Dataset Training** — Trained on 26K+ samples from airline tweets, movie reviews, and Twitter data
@@ -10,7 +13,7 @@ AI-powered sentiment analysis with explainable predictions. Analyzes customer re
 - **Batch Analysis** — Upload CSV files for bulk sentiment analysis
 - **Premium UI** — Dark-themed Streamlit interface with interactive charts
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install Dependencies
 
@@ -38,7 +41,7 @@ streamlit run app.py
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
-## 🌐 Deploy on Streamlit Cloud
+## Deploy on Streamlit Cloud
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
@@ -48,7 +51,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 > **Note:** Make sure the `models/` directory is committed to Git (it's not in `.gitignore`).
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── .streamlit/config.toml     # Streamlit dark theme
@@ -65,7 +68,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 └── README.md                  # This file
 ```
 
-## 🤖 Models Trained
+## Models Trained
 
 | Model | Description |
 |---|---|
@@ -75,7 +78,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 | Random Forest | Ensemble of decision trees |
 | Voting Ensemble | Soft-voting combination of top 3 |
 
-## 📊 Datasets Used
+## Datasets Used
 
 | Dataset | Source | Samples |
 |---|---|---|
